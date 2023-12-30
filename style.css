@@ -1,0 +1,140 @@
+.amma{
+    background-color: lightgrey;
+}
+label{
+    color: rgb(60, 60, 197);
+ }
+    .ami{
+        display: flex;
+justify-content: center;
+}
+.ami input{
+    padding: 20px 320px 20px 15px;
+    border-color: rgb(121, 223, 134);
+    border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+#jm{
+display: flex;
+margin-left: 9.5em;
+}
+#jm .gye select{
+margin-right: 1.1em;
+    padding-right: 419px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 2px solid rgb(121, 223, 134);
+    border-radius: 5px;
+}
+#jm .kin select{
+    padding-right: 348px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 2px solid rgb(121, 223, 134);
+    border-radius: 5px;
+}
+
+#ammu{
+    display: flex;
+    margin-left: 9.5em;
+}
+#ammu .aab input{
+    padding: 20px 370px 20px 15px;
+    border-color: rgb(121, 223, 134);
+    border-radius: 5px;
+    margin-right: 1.1em;
+}
+
+#ammu .bb select{
+    padding-right: 410px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 2px solid rgb(121, 223, 134);
+    border-radius: 5px;
+}
+.lo{
+    display: flex;
+    justify-content: center;
+
+
+}
+.lo input{
+    padding: 15px 850px 15px 15px;
+    border-color: rgb(121, 223, 134);
+    border-radius: 5px;
+    
+}
+.hi{
+    display: flex;
+    justify-content: center;
+}
+
+.hi select{
+    padding-right: 919px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 2px solid rgb(121, 223, 134);
+    border-radius: 5px;   
+}
+
+.hii    {
+    display: flex;
+    justify-content: center;
+}
+
+.hii select{
+    padding-right: 880px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 2px solid rgb(121, 223, 134);
+    border-radius: 5px;   
+}
+
+
+.pp input{
+    display: flex;
+}
+.pp label{
+    margin-left: 9rem;
+}
+.pp input{
+    margin-left: 9rem;
+    border: 2px solid rgb(121, 223, 134);
+    border-radius: 5px;   
+    background-color: white;
+    padding: 15px 770px 15px 15px;
+ }
+.cs p{
+    display: flex;
+    margin-left: 150px;
+}
+.ibm{
+    justify-content: center;
+    margin-left: 10rem;
+}
+.nu{
+    display: flex;
+    justify-content: center;
+    margin-top: 2em;
+}
+.nu button{
+    color: white;
+    background-color: #0d6db7;
+border: #0d6db7;
+    padding: 10px 425px ;
+border-radius: 10px;
+}
+
+
+
+
+
+
+
